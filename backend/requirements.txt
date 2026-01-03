@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+tensorflow-cpu==2.13.1
+mtcnn
+numpy
+opencv-python-headless
+sqlalchemy
+python-multipart
+pillow
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv

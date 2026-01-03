@@ -1,0 +1,22 @@
+# General
+.DS_Store
+Thumbs.db
+*.log
+
+# Editor directories
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Dependency directories (just in case)
+node_modules/
+venv/
+.venv/
+env/
+__pycache__/
+
+# Sensitive files (backup catch-all)
+.env
+*.db
+*.sqlite
